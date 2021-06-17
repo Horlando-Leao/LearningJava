@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/digital.innovation.one.core/digital.innovation.one.core.iml" filepath="$PROJECT_DIR$/digital.innovation.one.core/digital.innovation.one.core.iml" />
       <module fileurl="file://$PROJECT_DIR$/digital.innovation.one.utils/digital.innovation.utils.iml" filepath="$PROJECT_DIR$/digital.innovation.one.utils/digital.innovation.utils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-modular.iml" filepath="$PROJECT_DIR$/java-modular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/praticando-java.iml" filepath="$PROJECT_DIR$/praticando-java.iml" />
     </modules>
   </component>
 </project>
